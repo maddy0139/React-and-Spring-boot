@@ -1,0 +1,25 @@
+{
+  "name": "fancy-forms",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-redux": "^5.0.7",
+    "react-router": "2.4.0",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "4.0.4",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^6.2.0",
+    "redux": "3.5.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
